@@ -1,0 +1,8 @@
+SOC SECURITY DETECTION REPORT
+=======================================================
+
+Total alerts: 2
+
+Alert #1
+  Type       : Brute Force Attack
+  Source IP  : 192.168.1.50
